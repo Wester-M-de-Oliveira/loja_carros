@@ -20,17 +20,17 @@
   <nav class="white" role="navigation">
     <div class="nav-wrapper container"><a id="Logo-container" href="#" ><img src="assets/images/MORANDI.svg " width="250"></a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="../index.php">Home</a></li>
-        <li><a href="../consultar.php">Consultar </a></li>
-        <li><a href="../adicionar.php">Adicionar</a></li>
-        <li><a href="../relatorio.php">Relatórios</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="consultar.php">Consultar </a></li>
+        <li><a href="adicionar.php">Adicionar</a></li>
+        <li><a href="relatorio.php">Relatórios</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
-        <li><a href="../index.php">Home</a></li>
-        <li><a href="../consultar.php">Consultar </a></li>
-        <li><a href="../adicionar.php">Adicionar</a></li>
-        <li><a href=".//relatorio.php">Relatórios</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="consultar.php">Consultar </a></li>
+        <li><a href="adicionar.php">Adicionar</a></li>
+        <li><a href="relatorio.php">Relatórios</a></li>
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
